@@ -1,0 +1,111 @@
+    1  echo "#Proyecto1-LVM >> Readme.md
+git init
+git add reade.md
+git add readme.md
+git commit -m "first commit"
+
+    2  echo "#Proyecto1-LVM" >>README.MD
+    3  git ini
+    4  sudo yum install git
+    5  sudo yum install lvm2
+    6  history
+    7  git config --global user.name Francisco Garcia
+    8  git config --global user.email fgarcia.lopez@hotmail.com
+    9  echo "# Proyecto1-LVM" >> README.md
+   10  git init
+   11  git add README.md
+   12  git commit -m "first commit"
+   13  git remote add origin https://github.com/pancho70/Proyecto1-LVM.git
+   14  git push -u origin master
+   15  sudo yum install tree
+   16  mkdir history
+   17  ls
+   18  tree
+   19  ls 
+   20  mkdir Proyectos
+   21  mkdir Proyecto-1
+   22* mkdir Proyecto-1\
+   23  mkdir Proyecto-1\doc\Proyecto-1.txt
+   24  cd Proyecto-1\
+   25  ls
+   26  rm Proyecto-1
+   27  rm rf Proyecto-1
+   28  rm -rf Proyecto-1
+   29  ls
+   30  rm -rf Proyecto-1.txt
+   31  ls
+   32  rm -rf Proyecto-1Proyecto-1.txt
+   33  ls
+   34  rm -rf Proyecto-1docProyecto-1.txt
+   35  ls
+   36  cd Proyectos
+   37  ls
+   38  cd ..
+   39  mkdir Proyectos\Proyecto-1
+   40  mkdir Proyectos\Proyecto-1\doc
+   41  mkdir Proyectos\Proyecto-1\doc\proyecto1.txt
+   42  ls
+   43  rm -rf Proyectos\Proyecto-1\doc\proyecto1.txt
+   44  rm -rf Proyectos\Proyecto-1\doc
+   45  ls
+   46  mkdir ProyectosProyecto-1
+   47  rm -rfProyectosProyecto-1
+   48  rm -r fProyectosProyecto-1
+   49  rm -rf ProyectosProyecto-1
+   50  ls
+   51  cd proyectos
+   52  cd Proyectos
+   53  ls
+   54  dir
+   55  mkdir Proyecto-1
+   56  ls
+   57  mkdir /Proyecto-1/doc
+   58  mkdir \Proyecto-1\doc
+   59  ls
+   60  rm -rf \Proyecto-1\doc
+   61  ls
+   62* vim 
+   63  cd Proyecto-1
+   64  ls
+   65  mkdir doc
+   66  cd doc
+   67  ls
+   68  tree
+   69  proyecto-1.txt
+   70  mk proyecto-1.txt
+   71  vim proyecto-1.txt
+   72  ls
+   73  cd ..
+   74  tree
+   75  cd ..
+   76  tree
+   77  cd ..
+   78  tree
+   79  pwd
+   80  cd Proyectos
+   81  cd Proyecto-1
+   82  ls
+   83  mkdir entregables
+   84  cd ../..
+   85  tree
+   86  cd Proyectos
+   87  ls
+   88  cd Proyecto-1
+   89  ls
+   90  mkdir history
+   91  ls
+   92  cd..
+   93  cd ../..
+   94  tree
+   95  cd Proyectos\Proyecto-1\history
+   96  cd Proyectos\Proyecto-1\history\
+   97  cd Proyectos\Proyecto-1
+   98  pwd
+   99  cd Proyectos\
+  100  cd Proyectos
+  101  ls
+  102  cd Proyecto-1
+  103  ls
+  104  cd history
+  105  ls
+  106  history > history
